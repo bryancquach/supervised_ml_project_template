@@ -10,17 +10,19 @@ This template repository provides an organizational structure for more quickly s
 ├── README_template.md
 ├── data
 │   ├── processed
-│   │   └── cohort_0001
+│   │   └── dataset_0001
 │   ├── raw
-│   │   └── cohort_0001
+│   │   └── dataset_0001
 │   └── tmp
-│       └── cohort_0001
+│       └── dataset_0001
 ├── models
+│   ├── 0001
+│   │   └── README.md
 │   └── README.md
 ├── notebooks
 │   ├── 1_preprocessing
 │   ├── 2_eda
-│   ├── 3_modeling_and_inference
+│   ├── 3_modeling
 │   └── 4_reports
 ├── results
 │   ├── 1_preprocessing

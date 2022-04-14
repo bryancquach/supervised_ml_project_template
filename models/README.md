@@ -1,11 +1,5 @@
 # Model descriptions
 
-This subdirectory includes information about how models were trained.
+This README provides descriptions for the numeric ID system that denotes different trained predictive models.
 
-<details>
-<summary>{filename}</summary><br/>
-
-   {details of model training}
-
-</details>
-
+* `0001`: {Description}
